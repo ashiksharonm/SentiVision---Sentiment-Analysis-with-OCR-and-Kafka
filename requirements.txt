@@ -1,0 +1,14 @@
+streamlit
+requests
+pandas
+numpy
+pillow
+pytesseract
+kafka-python
+langchain
+langchain-community
+faiss-cpu
+google-generativeai
+findspark
+pyspark
+python-dotenv
